@@ -1,0 +1,668 @@
+[
+ {
+  "numero": 1,
+  "id": "wiki-dewever-gov",
+  "outlet": "Wikipedia (EN)",
+  "date": "2026-09-30",
+  "type": "encyclopedie",
+  "title": "De Wever government",
+  "url": "https://en.wikipedia.org/wiki/De_Wever_government"
+ },
+ {
+  "numero": 2,
+  "id": "vrt-fr-20250203",
+  "outlet": "VRT NWS (FR)",
+  "date": "2025-02-03",
+  "type": "presse",
+  "title": "Les quinze nouveaux ministres du gouvernement fédéral ont prêté serment devant le Roi",
+  "url": "https://www.vrt.be/vrtnws/fr/2025/02/03/les-quinze-nouveaux-ministres-du-gouvernement-federal-ont-prete/"
+ },
+ {
+  "numero": 3,
+  "id": "rtbf-accord-2025",
+  "outlet": "RTBF Actus",
+  "date": "2025-01",
+  "type": "presse",
+  "title": "Voici les principales mesures décidées par le nouveau gouvernement de Bart De Wever",
+  "url": "https://www.rtbf.be/article/voici-toutes-les-mesures-decidees-par-le-nouveau-gouvernement-de-bart-de-wever-11496325"
+ },
+ {
+  "numero": 4,
+  "id": "rtbf-chomage-vagues",
+  "outlet": "RTBF Actus",
+  "date": "2026-03-31",
+  "type": "presse",
+  "title": "Limitation dans le temps des allocations de chômage, qui sera exclu et quand ? (mis à jour le 31 mars 2026)",
+  "url": "https://www.rtbf.be/article/limitation-dans-le-temps-des-allocations-de-chomage-qui-sera-exclu-et-quand-11623311"
+ },
+ {
+  "numero": 5,
+  "id": "moustique-20260804",
+  "outlet": "Moustique",
+  "date": "2026-08-04",
+  "type": "presse",
+  "title": "Réforme du chômage : l'exclusion pousse près d'une personne sur deux vers les CPAS, voici 5 chiffres pour comprendre",
+  "url": "https://www.moustique.be/notre-epoque/nos-explications/2026/08/04/reforme-du-chomage-lexclusion-pousse-pres-dune-personne-sur-deux-vers-les-cpas-voici-5-chiffres-pour-comprendre-IC6RI62Q4FDTJMJGBIKAF442DA/"
+ },
+ {
+  "numero": 6,
+  "id": "moustique-20260925",
+  "outlet": "Moustique",
+  "date": "2026-09-25",
+  "type": "presse",
+  "title": "Exclus du chômage : moins de 10 % des concernés ont retrouvé un travail à Bruxelles, la moitié se tourne vers les CPAS",
+  "url": "https://www.moustique.be/notre-epoque/les-infos/2026/09/25/exclus-du-chomage-moins-de-10-des-concernes-ont-retrouve-un-travail-a-bruxelles-la-moitie-se-tourne-vers-les-cpas-52R27JV2RNFXFM7J4NFNNRPQJA/"
+ },
+ {
+  "numero": 7,
+  "id": "ccomptes-rtbf",
+  "outlet": "RTBF Actus",
+  "date": "2026-02",
+  "type": "presse",
+  "title": "Chômage, indexation, TVA… : la Cour des comptes doute des effets des réformes de l'Arizona",
+  "url": "https://www.rtbf.be/article/chomage-indexation-tva-la-cour-des-comptes-doute-des-effets-des-reformes-de-l-arizona-11682837"
+ },
+ {
+  "numero": 8,
+  "id": "lavenir-20250715-cohabitants",
+  "outlet": "L'Avenir",
+  "date": "2025-07-15",
+  "type": "presse",
+  "title": "Les cohabitants, grands perdants de la réforme du chômage de l'Arizona",
+  "url": "https://www.lavenir.net/actu/2025/07/15/les-cohabitants-grands-perdants-de-la-reforme-du-chomage-de-larizona-Q6XN6MWCKJGMVLVHEOAOPR6CUM/"
+ },
+ {
+  "numero": 9,
+  "id": "rtbf-20260910-cc",
+  "outlet": "RTBF Actus",
+  "date": "2026-09-10",
+  "type": "presse",
+  "title": "La Cour constitutionnelle valide la réforme du chômage, à l'exception de la limite dans le temps pour les chômeurs de longue durée",
+  "url": "https://www.rtbf.be/article/la-cour-constitutionnelle-valide-la-reforme-du-chomage-a-l-exception-d-une-disposition-11783180"
+ },
+ {
+  "numero": 10,
+  "id": "liguedh-20260910",
+  "outlet": "Ligue des droits humains",
+  "date": "2026-09-10",
+  "type": "analyse",
+  "title": "La Cour constitutionnelle annule partiellement les mesures transitoires de la réforme chômage, octroyant un sursis à environ 100 000 personnes",
+  "url": "https://www.liguedh.be/droits-sociaux/la-cour-constitutionnelle-annule-partiellement-les-mesures-transitoires-de-la-reforme-chomage-octroyant-un-sursis-a-environ-100-000-personnes/"
+ },
+ {
+  "numero": 11,
+  "id": "rtbf-1an-flandre",
+  "outlet": "RTBF Actus",
+  "date": "2026-02",
+  "type": "presse",
+  "title": "Un an du gouvernement De Wever : comment les Flamands perçoivent-ils cette année sous l'Arizona ?",
+  "url": "https://www.rtbf.be/article/un-an-du-gouvernement-de-wever-comment-les-flamands-percoivent-ils-cette-annee-sous-l-arizona-11673006"
+ },
+ {
+  "numero": 12,
+  "id": "vrt-en-20260708-nato",
+  "outlet": "VRT NWS (EN)",
+  "date": "2026-07-08",
+  "type": "presse",
+  "title": "Belgium to keep defence spending at 2% of GDP till 2029, commitment to roadmap to 3.5%",
+  "url": "https://www.vrt.be/vrtnws/en/2026/07/08/belgium-to-keep-defence-spending-at-2-of-gdp-till-2029-commitm/"
+ },
+ {
+  "numero": 13,
+  "id": "rtbf-vision-defense",
+  "outlet": "RTBF Actus",
+  "date": "2025-07",
+  "type": "presse",
+  "title": "34 milliards d'euros d'investissements, 11 nouveaux F-35, 10 000 militaires à engager : la Belgique valide sa nouvelle stratégie militaire",
+  "url": "https://www.rtbf.be/article/34-milliards-d-euros-11-nouveaux-f-35-10-000-militaires-a-engager-la-belgique-valide-sa-nouvelle-strategie-militaire-11577620"
+ },
+ {
+  "numero": 14,
+  "id": "lalibre-20260122-f35",
+  "outlet": "La Libre Belgique",
+  "date": "2026-01-22",
+  "type": "presse",
+  "title": "Le gouvernement belge ne compte pas remettre en cause l'achat des onze F-35 supplémentaires",
+  "url": "https://www.lalibre.be/economie/2026/01/22/le-gouvernement-belge-ne-compte-pas-remettre-en-cause-lachat-des-onze-f-35-supplementaires-6SGU2NTE4RHADPUKJDUXQ4V6DE/"
+ },
+ {
+  "numero": 15,
+  "id": "lalibre-20260515-defense",
+  "outlet": "La Libre Belgique (Belga)",
+  "date": "2026-05-15",
+  "type": "presse",
+  "title": "Francken défend l'objectif budgétaire de la Défense que le CD&V veut revoir",
+  "url": "https://www.lalibre.be/dernieres-depeches/2026/05/15/francken-defend-lobjectif-budgetaire-de-la-defense-que-le-cdv-veut-revoir-IS2KY42UENBUNHQBDY7VORAPD4/"
+ },
+ {
+  "numero": 16,
+  "id": "lalibre-20260221-euroclear",
+  "outlet": "La Libre Belgique",
+  "date": "2026-02-21",
+  "type": "presse",
+  "title": "Plus d'un milliard d'euros par an de dépenses militaires belges proviennent des avoirs russes gelés",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/02/21/plus-dun-milliard-deuros-par-an-de-depenses-militaires-belges-proviennent-des-avoirs-russes-geles-MWSNIBI2LZD4LCU5ODKNEFY6XI/"
+ },
+ {
+  "numero": 17,
+  "id": "lalibre-20251113-euroclear",
+  "outlet": "La Libre Belgique",
+  "date": "2025-11-13",
+  "type": "presse",
+  "title": "Euroclear et actifs russes gelés : la face cachée de la bataille de Bart De Wever",
+  "url": "https://www.lalibre.be/economie/entreprises-startup/2025/11/13/euroclear-et-actifs-russes-geles-la-face-cachee-de-la-bataille-de-bart-de-wever-QXFHP77HM5DRDEK6Q4UYVBXW3A/"
+ },
+ {
+  "numero": 18,
+  "id": "vrt-fr-20251219-euroclear",
+  "outlet": "VRT NWS (FR)",
+  "date": "2025-12-19",
+  "type": "presse",
+  "title": "L'UE opte pour un emprunt commun plutôt que les avoirs russes : De Wever y voit une victoire pour l'Ukraine, l'Europe et la stabilité financière",
+  "url": "https://www.vrt.be/vrtnws/fr/2025/12/19/l_ue-opte-pour-un-emprunt-commun-plutot-que-les-avoirs-russes/"
+ },
+ {
+  "numero": 19,
+  "id": "lalibre-20251204-euroclear",
+  "outlet": "La Libre Belgique",
+  "date": "2025-12-04",
+  "type": "presse",
+  "title": "Avoirs russes gelés : la proposition de la Commission va faire perdre environ un milliard d'euros à la Belgique",
+  "url": "https://www.lalibre.be/economie/conjoncture/2025/12/04/avoirs-russes-geles-la-proposition-de-lue-va-faire-perdre-un-milliard-de-revenus-de-recettes-fiscales-a-la-belgique-K63JH3LFA5DTTKTN5ONPP6BZAM/"
+ },
+ {
+  "numero": 20,
+  "id": "parismatch-20260613-ukraine",
+  "outlet": "Paris Match Belgique (données Kiel Institute)",
+  "date": "2026-06-13",
+  "type": "presse",
+  "title": "Aider l'Ukraine ne coûte rien à la Belgique et lui ramène même de l'argent : un cas unique en Europe",
+  "url": "https://www.parismatch.be/actualites/societe/2026/06/13/aider-lukraine-ne-coute-rien-a-la-belgique-et-lui-ramene-meme-de-largent-un-cas-unique-en-europe-U2BGYLK3WNCNTA4UTLQLYCFBFA/"
+ },
+ {
+  "numero": 21,
+  "id": "vrt-en-20260902-euroclear",
+  "outlet": "VRT NWS (EN)",
+  "date": "2026-09-02",
+  "type": "presse",
+  "title": "Euroclear back in the spotlight: 4 countries eager to use €193 billion in Russian assets after all",
+  "url": "https://www.vrt.be/vrtnws/en/2026/09/02/euroclear-back-in-the-spotlight-4-countries-eager-to-use-193-bi/"
+ },
+ {
+  "numero": 22,
+  "id": "businessam-emploi",
+  "outlet": "Business AM",
+  "date": "2026-06-09",
+  "type": "presse",
+  "title": "Le taux d'emploi en Belgique stagne à 72,8 % : l'objectif de 80 % reste lointain",
+  "url": "https://fr.businessam.be/le-taux-demploi-en-belgique-stagne-a-728-pour-cent-lobjectif-de-80-pour-cent-reste-lointain"
+ },
+ {
+  "numero": 23,
+  "id": "synova-20260504-travail",
+  "outlet": "Synova (ex-CGSLB)",
+  "date": "2026-05-04",
+  "type": "syndical",
+  "title": "Un cadeau pour le 1er mai ? Ce qui change pour le droit du travail",
+  "url": "https://www.synova.be/fr/actualites-et-informations/un-cadeau-pour-le-1er-mai-ce-qui-change-pour-le-droit-du-travail"
+ },
+ {
+  "numero": 24,
+  "id": "dh-20260907-etudiants",
+  "outlet": "La DH",
+  "date": "2026-09-07",
+  "type": "presse",
+  "title": "L'Arizona autorise les jobs d'étudiant dès l'âge de 15 ans mais de nombreuses associations pestent : « C'est incompatible avec l'école »",
+  "url": "https://www.dhnet.be/actu/belgique/2026/09/07/larizona-autorise-les-jobs-detudiant-des-lage-de-15-ans-mais-de-nombreuses-associations-pestent-cest-incompatible-avec-lecole-RZWWXYBVSZDJXHFFDJBRKBSCNU/"
+ },
+ {
+  "numero": 25,
+  "id": "lavenir-20260529-pensions",
+  "outlet": "L'Avenir",
+  "date": "2026-05-29",
+  "type": "presse",
+  "title": "La réforme des pensions adoptée : voici ce qui change pour votre départ à la retraite (et votre portefeuille)",
+  "url": "https://www.lavenir.net/actu/societe/2026/05/29/la-reforme-des-pensions-adoptee-voici-ce-qui-change-pour-votre-depart-a-la-retraite-et-votre-portefeuille-3AZ25YM37BGQJLUVSNSE6TAEEM/"
+ },
+ {
+  "numero": 26,
+  "id": "lavenir-20260413-fpb",
+  "outlet": "L'Avenir",
+  "date": "2026-04-13",
+  "type": "presse",
+  "title": "Réforme des pensions de l'Arizona : voici l'étude indépendante qui montre qui seront les perdants",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/04/13/reforme-des-pensions-de-larizona-letude-qui-montre-qui-seront-les-grands-perdants-Z56WDHC2WRHM3FFRKT4FWKDOGA/"
+ },
+ {
+  "numero": 27,
+  "id": "euronews-20251124",
+  "outlet": "Euronews",
+  "date": "2025-11-24",
+  "type": "presse",
+  "title": "Belgium reaches budget deal as nationwide strikes continue despite agreement",
+  "url": "https://euronews.com/2025/11/24/belgium-reaches-budget-deal-as-nationwide-strikes-continue-despite-agreement"
+ },
+ {
+  "numero": 28,
+  "id": "eurostat-20260422",
+  "outlet": "Eurostat",
+  "date": "2026-04-22",
+  "type": "officiel",
+  "title": "Euro area government deficit at 2.9% and EU at 3.1% of GDP (données 2025)",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-22042026-ap"
+ },
+ {
+  "numero": 29,
+  "id": "lalibre-20260521-deficit",
+  "outlet": "La Libre Belgique",
+  "date": "2026-05-21",
+  "type": "presse",
+  "title": "Déficit budgétaire : la Belgique parmi les plus mauvais élèves de la zone euro, avec des dépenses de défense en hausse",
+  "url": "https://www.lalibre.be/economie/conjoncture/2026/05/21/deficit-budgetaire-la-belgique-parmi-les-plus-mauvais-eleves-de-la-zone-euro-avec-des-depenses-de-defense-en-hausse-7RUISATJZREFZK3MN2IVZAENAI/"
+ },
+ {
+  "numero": 30,
+  "id": "bloomberg-fitch-2025",
+  "outlet": "Bloomberg",
+  "date": "2025-06-13",
+  "type": "presse",
+  "title": "Belgium's Credit Rating Cut by Fitch as Budget Concerns Linger",
+  "url": "https://www.bloomberg.com/news/articles/2025-06-13/belgium-s-credit-rating-cut-by-fitch-as-budget-concerns-linger"
+ },
+ {
+  "numero": 31,
+  "id": "rtbf-moodys",
+  "outlet": "RTBF Actus",
+  "date": "2026-04-17",
+  "type": "presse",
+  "title": "Moody's dégrade la note financière de la Belgique et la prive de son « double A »",
+  "url": "https://www.rtbf.be/article/moody-s-degrade-la-note-financiere-de-la-belgique-et-la-prive-de-son-double-a-11711602"
+ },
+ {
+  "numero": 32,
+  "id": "te-sp-20260424",
+  "outlet": "Trading Economics (via TradingView)",
+  "date": "2026-04-24",
+  "type": "presse",
+  "title": "S&P Downgrades Belgium's Sovereign Debt Rating to AA-",
+  "url": "https://www.tradingview.com/news/te_news:544931:0-s-p-downgrades-belgium-s-sovereign-debt-rating-to-aa/"
+ },
+ {
+  "numero": 33,
+  "id": "vrt-20260323",
+  "outlet": "VRT NWS",
+  "date": "2026-03-23",
+  "type": "presse",
+  "title": "Regering moet 4,9 miljard euro extra besparen tegen 2029, De Wever: « Moeilijke koers, maar heldere bestemming »",
+  "url": "https://www.vrt.be/vrtnws/nl/2026/03/23/monitoringcomite-begroting-vincent-van-peteghem/"
+ },
+ {
+  "numero": 34,
+  "id": "lavenir-20260602",
+  "outlet": "L'Avenir",
+  "date": "2026-06-02",
+  "type": "presse",
+  "title": "TVA, index, soins de santé… voici le catalogue de plus de 250 mesures budgétaires qui pourrait inspirer l'Arizona",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/06/02/tva-index-soins-de-sante-voici-le-catalogue-de-plus-de-250-mesures-budgetaires-qui-pourrait-inspirer-larizona-et-bart-de-wever-VJUC7B3OA5DZLDGGHVDU77VXN4/"
+ },
+ {
+  "numero": 35,
+  "id": "vrt-20260612",
+  "outlet": "VRT NWS",
+  "date": "2026-06-12",
+  "type": "presse",
+  "title": "Regering moet 7,7 miljard euro extra vinden tegen 2029 om begroting onder controle te krijgen, stelt Monitoringcomité",
+  "url": "https://www.vrt.be/vrtnws/nl/2026/06/12/bewakers-begroting/"
+ },
+ {
+  "numero": 36,
+  "id": "bt-20260909",
+  "outlet": "The Brussels Times",
+  "date": "2026-09-09",
+  "type": "presse",
+  "title": "Belgian government starts budget talks: Where will they find €10 billion?",
+  "url": "https://www.brusselstimes.com/belgium/2308366/belgian-government-starts-budget-talks-where-will-they-find-e10-billion"
+ },
+ {
+  "numero": 37,
+  "id": "ccomptes-oeccbb",
+  "outlet": "Forum for the Future / OECCBB",
+  "date": "2026-02-22",
+  "type": "secteur",
+  "title": "Budget fédéral 2026 : ce que la Cour des comptes remet en question dans la « copie » de l'Arizona",
+  "url": "https://blog.oeccbb.be/fr/article/budget-federal-2026-ce-que-la-cour-des-comptes-remet-en-question-dans-la-copie-de-larizona/30217"
+ },
+ {
+  "numero": 38,
+  "id": "lalibre-20260901",
+  "outlet": "La Libre Belgique",
+  "date": "2026-09-01",
+  "type": "presse",
+  "title": "Pourquoi l'Arizona doit à nouveau mettre l'État à la diète",
+  "url": "https://www.lalibre.be/belgique/2026/09/01/pourquoi-larizona-doit-a-nouveau-mettre-letat-a-la-diete-3YWEDLPITJFANNVSRC7MZRYTAQ/"
+ },
+ {
+  "numero": 39,
+  "id": "lalibre-20260924-kern",
+  "outlet": "La Libre Belgique (Belga)",
+  "date": "2026-09-24",
+  "type": "presse",
+  "title": "Budget fédéral – Les principaux ministres du gouvernement fédéral se quittent après un kern technique",
+  "url": "https://www.lalibre.be/dernieres-depeches/2026/09/24/budget-federal-les-principaux-ministres-du-gouvernement-federal-se-quittent-apres-un-kern-technique-VASPEWEEKFBETM5POX5AAQMCCQ/"
+ },
+ {
+  "numero": 40,
+  "id": "vrt-fr-20260914",
+  "outlet": "VRT NWS (FR)",
+  "date": "2026-09-14",
+  "type": "presse",
+  "title": "Mesures budgétaires : ce que l'on sait déjà du mystérieux « cahier blanc » de Bart De Wever",
+  "url": "https://www.vrt.be/vrtnws/fr/2026/09/14/mesures-budgetaires-ce-que-lon-sait-deja-du-mysterieux-cahier"
+ },
+ {
+  "numero": 41,
+  "id": "econostrum-20260929-tva",
+  "outlet": "Econostrum",
+  "date": "2026-09-29",
+  "type": "presse",
+  "title": "Augmenter la TVA pour sauver le budget belge : cette mesure rapporterait-elle vraiment autant qu'espéré ?",
+  "url": "https://econostrum.info/belgique/augmenter-la-tva-pour-sauver-le-budget-belge/"
+ },
+ {
+  "numero": 42,
+  "id": "wiki-iran-ceasefire",
+  "outlet": "Wikipedia (EN)",
+  "date": "2026-09-30",
+  "type": "encyclopedie",
+  "title": "2026 Iran war ceasefire",
+  "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"
+ },
+ {
+  "numero": 43,
+  "id": "iru-20260522",
+  "outlet": "IRU (Union internationale des transports routiers)",
+  "date": "2026-05-22",
+  "type": "secteur",
+  "title": "Fuel prices stabilising, but crisis far from over",
+  "url": "https://www.iru.org/news-resources/newsroom/fuel-prices-stabilising-crisis-far-over"
+ },
+ {
+  "numero": 44,
+  "id": "consilium-eurogroup-2026",
+  "outlet": "Eurogroupe",
+  "date": "2026-03-09",
+  "type": "officiel",
+  "title": "Eurogroup statement on the Belgian draft budgetary plan for 2026",
+  "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/09/eurogroup-statement-on-the-belgian-draft-budgetary-plan-for-2026/"
+ },
+ {
+  "numero": 45,
+  "id": "bt-20251124",
+  "outlet": "The Brussels Times",
+  "date": "2025-11-24",
+  "type": "presse",
+  "title": "Extra flight tax, more VAT and rising prices: What Belgium's budget agreement means",
+  "url": "https://www.brusselstimes.com/1854300/extra-flight-tax-more-vat-and-rising-prices-what-belgiums-budget-agreement-means"
+ },
+ {
+  "numero": 46,
+  "id": "lalibre-20260529-loiprog",
+  "outlet": "La Libre Belgique",
+  "date": "2026-05-29",
+  "type": "presse",
+  "title": "La Chambre adopte la loi-programme, avec l'indexation limitée des salaires",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/05/29/la-chambre-adopte-la-loi-programme-avec-lindexation-limitee-des-salaires-GQHCFGTYIJF2ZJEG2HLKVROWTM/"
+ },
+ {
+  "numero": 47,
+  "id": "bt-20260921",
+  "outlet": "The Brussels Times",
+  "date": "2026-09-21",
+  "type": "presse",
+  "title": "On PM De Wever's chopping block to fix Belgium's budget: Non-profits, VAT and health care",
+  "url": "https://www.brusselstimes.com/2322824/on-pm-de-wevers-chopping-block-to-fix-belgiums-budget-non-profits-vat-and-health-care"
+ },
+ {
+  "numero": 48,
+  "id": "rsm-plusvalues",
+  "outlet": "RSM Belgium",
+  "date": "2026-04",
+  "type": "secteur",
+  "title": "Loi introduisant une « taxe sur les plus-values des actifs financiers » – Principales caractéristiques et considérations pratiques",
+  "url": "https://www.rsm.global/belgium/fr/insights/loi-introduisant-une-taxe-sur-les-plus-values-des-actifs-financiers-principales-caracteristiques-et-considerations-pratiques"
+ },
+ {
+  "numero": 49,
+  "id": "rtbf-20251124-index",
+  "outlet": "RTBF Actus",
+  "date": "2025-11-24",
+  "type": "presse",
+  "title": "Ce que l'indexation plafonnée des salaires, des pensions et allocations aura comme conséquence sur votre revenu",
+  "url": "https://www.rtbf.be/article/ce-que-l-indexation-plafonnee-des-salaires-des-pensions-et-allocations-aura-comme-consequence-sur-votre-revenu-11636721"
+ },
+ {
+  "numero": 50,
+  "id": "rtbf-voitures-5mds",
+  "outlet": "RTBF Actus",
+  "date": "2025-06-26",
+  "type": "presse",
+  "title": "Les voitures de société représentent 5 milliards d'euros de manque à gagner pour l'État chaque année",
+  "url": "https://www.rtbf.be/article/les-voitures-de-societes-representent-5-milliards-d-euros-de-manque-a-gagner-pour-l-etat-chaque-annee-11567692"
+ },
+ {
+  "numero": 51,
+  "id": "vrt-liveblog-mahdi",
+  "outlet": "VRT NWS (liveblog)",
+  "date": "2026-09",
+  "type": "presse",
+  "title": "LIVE – Mahdi krijgt gloeilamp cadeau van De Gucht: « Nu wil hij toch aan de bedrijfswagens raken »",
+  "url": "https://www.vrt.be/vrtnws/nl/liveblog/mahdi-krijgt-gloeilamp-cadeau-van-de-gucht-nu-wil-hij-toch-aan~1780024580839/"
+ },
+ {
+  "numero": 52,
+  "id": "guidesocial-aide-alim",
+  "outlet": "Guide social (carte blanche d'une cinquantaine d'organisations d'aide alimentaire)",
+  "date": "2025-07-02",
+  "type": "analyse",
+  "title": "Aide alimentaire : l'approvisionnement en chute libre, un tiers de budget en moins pour 2026",
+  "url": "https://pro.guidesocial.be/articles/carte-blanche/article/aide-alimentaire-l-approvisionnement-en-chute-libre-1-3-de-budget-en-moins-pour"
+ },
+ {
+  "numero": 53,
+  "id": "rtbf-aide-alimentaire",
+  "outlet": "RTBF Actus",
+  "date": "2026-06",
+  "type": "presse",
+  "title": "L'aide alimentaire au bord de la saturation : les travailleurs pauvres et les exclus du chômage gonflent les files",
+  "url": "https://www.rtbf.be/article/pauvrete-suite-a-la-reforme-du-chomage-la-demande-d-aide-alimentaire-s-amplifie-encore-davantage-en-belgique-francophone-11750011"
+ },
+ {
+  "numero": 54,
+  "id": "lalibre-20260331-index",
+  "outlet": "La Libre Belgique",
+  "date": "2026-03-31",
+  "type": "presse",
+  "title": "Le double saut d'index devrait rapporter 1,2 milliard d'euros à l'État",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/03/31/le-double-saut-dindex-devrait-rapporter-12-milliard-deuros-a-letat-KPOR6P5NRZCSJDQU3J7KDKYUS4/"
+ },
+ {
+  "numero": 55,
+  "id": "oeccbb-plusvalues",
+  "outlet": "Blog OECCBB (experts-comptables)",
+  "date": "2026-04",
+  "type": "secteur",
+  "title": "Taxe sur les plus-values sur les actifs financiers votée : ce que les professionnels du chiffre doivent savoir",
+  "url": "https://blog.oeccbb.be/fr/article/taxe-sur-les-plus-values-sur-les-actifs-financiers-votee-ce-que-les-professionnels-du-chiffre-doivent-savoir-sur-la-mission-de-valorisation./30777"
+ },
+ {
+  "numero": 56,
+  "id": "lalibre-20260924-verougstraete",
+  "outlet": "La Libre Belgique",
+  "date": "2026-09-24",
+  "type": "presse",
+  "title": "Yvan Verougstraete : « Si Bart De Wever ne se met pas au-dessus de la mêlée, il va nous pousser dans des comportements qu'on ne veut pas avoir »",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/24/yvan-verougstraete-les-engages-sur-le-budget-federal-on-navalera-pas-nimporte-quoi-nous-avons-des-exigences-KU73EC5C4NHH7KR5F5ZQVBQPOY/"
+ },
+ {
+  "numero": 57,
+  "id": "moustique-20260327",
+  "outlet": "Moustique",
+  "date": "2026-03-27",
+  "type": "presse",
+  "title": "Asile et migration : Anneleen Van Bossuyt, la ministre qui snobait la Cour constitutionnelle, rattrapée par la patrouille du Conseil d'État",
+  "url": "https://www.moustique.be/notre-selection/2026/03/27/asile-et-migration-anneleen-van-bossuyt-la-ministre-qui-snobait-la-cour-constitutionnelle-rattrapee-par-la-patrouille-du-conseil-detat-TT2RKSXLYRAL5MRAMS6Z7PNJIQ/"
+ },
+ {
+  "numero": 58,
+  "id": "lalibre-20260516-index",
+  "outlet": "La Libre Belgique",
+  "date": "2026-05-16",
+  "type": "presse",
+  "title": "Indexation plafonnée des salaires : syndicats et patronat demandent au gouvernement de ne pas voter la loi-programme",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/05/16/indexation-plafonnee-des-salaires-syndicats-et-patronat-demandent-au-gouvernement-de-ne-pas-voter-la-loi-programme-LGBBADTWWJEABP3URE5YAFGG54/"
+ },
+ {
+  "numero": 59,
+  "id": "parismatch-20260325-loiprog",
+  "outlet": "Paris Match Belgique",
+  "date": "2026-03-25",
+  "type": "presse",
+  "title": "Coup dur pour l'Arizona : le vote de la loi-programme reporté, la Chambre attend des avis complémentaires",
+  "url": "https://www.parismatch.be/actualites/politique/2026/03/25/coup-dur-pour-larizona-le-vote-de-la-loi-programme-reporte-la-chambre-attend-des-avis-complementaires-4IZ6TNGPHVBHVLQHXYENJUHTPA/"
+ },
+ {
+  "numero": 60,
+  "id": "rtbf-pensions-vote",
+  "outlet": "RTBF Actus",
+  "date": "2026-05-29",
+  "type": "presse",
+  "title": "La Chambre adopte la réforme des pensions, un des chantiers phares de la coalition Arizona",
+  "url": "https://www.rtbf.be/article/la-chambre-adopte-la-reforme-des-pensions-un-des-chantiers-phares-de-la-coalition-arizona-11731605"
+ },
+ {
+  "numero": 61,
+  "id": "greco-20260106",
+  "outlet": "Conseil de l'Europe – GRECO",
+  "date": "2026-01-06",
+  "type": "officiel",
+  "title": "Belgique : le Groupe d'États contre la corruption (GRECO) publie deux nouveaux rapports d'évaluation",
+  "url": "https://www.coe.int/fr/web/portal/-/two-new-assessments-from-council-of-europe-anti-corruption-group-on-belgium"
+ },
+ {
+  "numero": 62,
+  "id": "lalibre-20260929-vampires",
+  "outlet": "La Libre Belgique",
+  "date": "2026-09-29",
+  "type": "presse",
+  "title": "Georges-Louis Bouchez s'en prend aux syndicats et aux mutuelles en les comparant à des « vampires »",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/29/georges-louis-bouchez-sen-prend-aux-syndicats-et-aux-mutuelles-en-les-comparant-a-des-vampires-TTCVGGAZYREY5PBVIYGZVS5C5Y/"
+ },
+ {
+  "numero": 63,
+  "id": "rsf-20260703-rossel",
+  "outlet": "Reporters sans frontières",
+  "date": "2026-07-03",
+  "type": "analyse",
+  "title": "IPM-Rossel merger in Belgium: an unprecedented near-monopoly of the French-language press that jeopardises media pluralism",
+  "url": "https://rsf.org/en/ipm-rossel-merger-belgium-unprecedented-near-monopoly-french-language-press-jeopardises-media"
+ },
+ {
+  "numero": 64,
+  "id": "rtbf-ministres-2025",
+  "outlet": "RTBF Actus",
+  "date": "2025-02",
+  "type": "presse",
+  "title": "Prévot aux Affaires étrangères, Francken à la Défense, Verlinden à la Justice, mais pas de Bouchez à l'Intérieur : qui sont les ministres ?",
+  "url": "https://www.rtbf.be/article/prevot-aux-affaires-etrangeres-francken-a-la-defense-verlinden-a-la-justice-mais-pas-de-bouchez-a-l-interieur-voici-les-ministres-du-gouvernement-de-wever-11498146"
+ },
+ {
+  "numero": 65,
+  "id": "vanbossuyt-2025",
+  "outlet": "Cabinet de la ministre A. Van Bossuyt",
+  "date": "2026-01",
+  "type": "officiel",
+  "title": "Les chiffres annuels confirment le changement de cap : les demandes d'asile ont diminué de près d'un tiers depuis l'entrée en vigueur de la politique de crise",
+  "url": "https://vanbossuyt.belgium.be/fr/actualites/les-chiffres-annuels-confirment-le-changement-de-cap-les-demandes-dasile-ont-diminue-de"
+ },
+ {
+  "numero": 66,
+  "id": "moustique-20260909b",
+  "outlet": "Moustique",
+  "date": "2026-09-09",
+  "type": "presse",
+  "title": "Syndicats contre Arizona : la prochaine manifestation nationale a été annoncée… Voici quand elle aura lieu",
+  "url": "https://www.moustique.be/notre-epoque/les-infos/2026/09/09/syndicats-contre-arizona-la-prochaine-manifestation-nationale-a-ete-annonce-voici-quand-elle-aura-lieu-PNRZLCF3INCRPAKCWXTGYN6ER4/"
+ },
+ {
+  "numero": 67,
+  "id": "lalibre-20260921",
+  "outlet": "La Libre Belgique",
+  "date": "2026-09-21",
+  "type": "presse",
+  "title": "« Déséquilibrée voire indigeste » : la note de départ des discussions budgétaires de De Wever passe mal chez les partenaires francophones",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/21/desequlibree-voire-indigeste-la-note-de-depart-des-discussions-budgetaires-de-de-wever-passe-mal-chez-les-partenaires-francophones-7BTKI3G2AJC6TM224Q7MOGHQRU/"
+ },
+ {
+  "numero": 68,
+  "id": "dh-20260909-tomber",
+  "outlet": "La DH / Les Sports+",
+  "date": "2026-09-09",
+  "type": "presse",
+  "title": "Quel parti aurait réellement intérêt à voir le gouvernement De Wever tomber ?",
+  "url": "https://www.dhnet.be/actu/belgique/2026/09/09/quel-parti-aurait-reellement-interet-a-voir-le-gouvernement-de-wever-tomber-BPIF5NKWCZGWRJ7R56GWRHXSG4/"
+ },
+ {
+  "numero": 69,
+  "id": "lavenir-20260918-sondage",
+  "outlet": "L'Avenir",
+  "date": "2026-09-18",
+  "type": "presse",
+  "title": "Intentions de vote en Belgique : le PS premier parti en Wallonie, le PTB proche du MR et le Vlaams Belang le plus populaire en Flandre",
+  "url": "https://www.lavenir.net/actu/belgique/politique/2026/09/18/intentions-de-vote-en-belgique-le-ps-premier-parti-en-wallonie-le-ptb-proche-du-mr-et-le-vlaams-belang-le-plus-populaire-en-flandre-FCEFZN3STRCA5OMN7RW6VVHZ6M/"
+ },
+ {
+  "numero": 70,
+  "id": "wiki-reg-2024",
+  "outlet": "Wikipedia (EN)",
+  "date": "2026-09-30",
+  "type": "encyclopedie",
+  "title": "2024 Belgian regional elections",
+  "url": "https://en.wikipedia.org/wiki/2024_Belgian_regional_elections"
+ },
+ {
+  "numero": 71,
+  "id": "lalibre-20260920-etat",
+  "outlet": "La Libre Belgique",
+  "date": "2026-09-20",
+  "type": "presse",
+  "title": "Pourquoi Bart De Wever agite le spectre d'une nouvelle réforme de l'État",
+  "url": "https://www.lalibre.be/belgique/politique-belge/2026/09/20/pourquoi-bart-de-wever-agite-le-spectre-dune-nouvelle-reforme-de-letat-QGVKJ5XGEBDU5GRSVNLGK5TGSA/"
+ },
+ {
+  "numero": 72,
+  "id": "visie-planbureau",
+  "outlet": "Visie (hebdomadaire de l'ACV-CSC)",
+  "date": "2026-06",
+  "type": "syndical",
+  "title": "Planbureau vindt miljarden voor begroting met meer dan 250 opties",
+  "url": "https://visie.net/artikel/planbureau-vindt-miljarden-voor-begroting-met-meer-dan-250-opties"
+ },
+ {
+  "numero": 73,
+  "id": "rtbf-260mesures",
+  "outlet": "RTBF Actus",
+  "date": "2026-06",
+  "type": "presse",
+  "title": "Quelles mesures budgétaires le gouvernement De Wever prendra-t-il ? Le Bureau du Plan a dressé une liste de 260 mesures envisageables",
+  "url": "https://www.rtbf.be/article/quelles-mesures-budgetaires-le-gouvernement-de-wever-prendra-t-il-le-bureau-du-plan-a-dresse-une-liste-de-260-mesures-envisageables-11733746"
+ },
+ {
+  "numero": 74,
+  "id": "dh-20260903-bouchez",
+  "outlet": "La DH / Les Sports+",
+  "date": "2026-09-03",
+  "type": "presse",
+  "title": "Georges-Louis Bouchez a tracé sa ligne rouge pour le budget mais il assure que « ce gouvernement ne tombera pas »",
+  "url": "https://www.dhnet.be/actu/belgique/2026/09/03/georges-louis-bouchez-a-trace-sa-ligne-rouge-pour-le-budget-mais-il-assure-que-ce-gouvernement-ne-tombera-pas-VUXBSWZV5ZETJPA4TCJF7B2GEY/"
+ }
+]
